@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @sidcoffee
+- 👋 Hi, I’m @sid
 - 👀 I’m interested in ...vue
-- 🌱 I’m currently learning ...vue
 - 💞️ I’m looking to collaborate on ...vue
 - 📫 How to reach me ...@sidcoffee
 
